@@ -39,18 +39,21 @@
 ### 🛰 Infra
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git">
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git">
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab">
 <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="ec2">
 <img src="https://img.shields.io/badge/s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="s3">
-
- <br>
+    <br/>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
 <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"><img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" alt="jenkins"><img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=OpenSSL&logoColor=white" alt="jenkins">
+    </div>
 
-</div>
+
+
+
+
+
 
 ### 💎 Front-End
 
@@ -61,20 +64,25 @@
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js">
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
 <br>
-<img src="https://img.shields.io/badge/vue-#4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" alt="react"><img src="https://img.shields.io/badge/vuex-#4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" alt="react">
+<img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" alt="react">
+    <img src="https://img.shields.io/badge/vuex-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" alt="react">
 <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="axios">
-<img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="jwt"><img src="https://img.shields.io/badge/openVidu-yellow?style=for-the-badge&logo=&logoColor=white" alt="jwt">
+<img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="jwt">
+    <img src="https://img.shields.io/badge/openVidu-yellow?style=for-the-badge&logo=&logoColor=white" alt="jwt">
+    </div>
 
-</div>
+
 
 ### 👩🏻‍🔧 Back-End
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/java-ffffff?style=for-the-badge&logo=openjdk&logoColor=black" alt="java">
+    <img src="https://img.shields.io/badge/java-ffffff?style=for-the-badge&logo=openjdk&logoColor=black" alt="java">
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="gradle">
-<img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="spring boot"><img src="https://img.shields.io/badge/spring%20Validation-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="spring boot"><img src="https://img.shields.io/badge/spring%20Web-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="spring boot"><img src="https://img.shields.io/badge/spring%20Security-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="spring boot">
-<img src="https://img.shields.io/badge/jpa-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="jpa">
+<img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="spring boot">
+    <img src="https://img.shields.io/badge/spring%20Security-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="spring boot">
+    <img src="https://img.shields.io/badge/spring%20Validation-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="spring boot">
+    <img src="https://img.shields.io/badge/spring%20Web-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="spring boot">
+    <img src="https://img.shields.io/badge/jpa-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="jpa">
 <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
 <img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="jwt">
@@ -86,13 +94,18 @@
 
 
 
+
+
+
+
+
 ## 📑 프로젝트 개요 및 소개
 
-### 액티브시니어를 위한 취업지원 서비스
+### ❗ 액티브시니어를 위한 취업지원 서비스
 
 **기대 수명이 늘어나는 것에 비해 짧은 은퇴 시기에 따라 은퇴 이후에 도전을 하는 액티브 시니어 분들이 등장을 하였습니다. 이러한 분들이 새로운 도전을 지원할 수 있는 손 쉬운 구인구직 서비스를 만들어야 겠다고 생각하였습니다..**
 
-### 다시 시작하는 나의 일생
+### ❗ 다시 시작하는 나의 일생
 
 **Reniors는 Re + seniors 의 합성어로 시니어 분들이 인생의 제 2막의 시작을 말하고 있습니다.**
 

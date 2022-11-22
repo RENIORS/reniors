@@ -18,9 +18,7 @@
 
 ## 🎞 서비스 소개 영상
 
-
-
-
+[YOUTUBE](https://www.youtube.com/watch?v=NqIQzAWTg6U)
 
 
 
@@ -33,6 +31,8 @@
 | ![kwb](Reniors%20-%20%EB%8B%A4%EC%8B%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%EB%82%98%EC%9D%98%20%EC%9D%BC%EC%83%9D%207b9b9bedb8e44b96b5bd03cf1ee708f0/kwb-16690959000845.jpg) | ![kws](Reniors%20-%20%EB%8B%A4%EC%8B%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%EB%82%98%EC%9D%98%20%EC%9D%BC%EC%83%9D%207b9b9bedb8e44b96b5bd03cf1ee708f0/kws.jpg) | ![sjh](Reniors%20-%20%EB%8B%A4%EC%8B%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%EB%82%98%EC%9D%98%20%EC%9D%BC%EC%83%9D%207b9b9bedb8e44b96b5bd03cf1ee708f0/sjh-16690959360989.jpg) | ![jbc](Reniors%20-%20%EB%8B%A4%EC%8B%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%EB%82%98%EC%9D%98%20%EC%9D%BC%EC%83%9D%207b9b9bedb8e44b96b5bd03cf1ee708f0/jbc-16690959224537.jpg) | ![jah](Reniors%20-%20%EB%8B%A4%EC%8B%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%EB%82%98%EC%9D%98%20%EC%9D%BC%EC%83%9D%207b9b9bedb8e44b96b5bd03cf1ee708f0/jah.png) |
 | **팀장**                                                     | 팀원                                                         | 팀원                                                         | 팀원                                                         | 팀원                                                         |
 | BE                                                           | FE                                                           | BE, Infra                                                    | BE                                                           | FE                                                           |
+
+
 
 ## 🛠️ 기술 스택
 
@@ -121,8 +121,6 @@ Reniors는 시니어분들을 대상으로하는 전문 구인구직 서비스 �
 - 카카오로그인 지원
 - 관심 리스트
 - 회사정보확인
-
-
 
 
 
